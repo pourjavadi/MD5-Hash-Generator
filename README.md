@@ -14,7 +14,7 @@ This script is a simple MD5 hash generator. It takes a string input from the use
 To use this script, clone the repository and run the Python file:
 
 ```bash
-git clone https://github.com/your-username/md5-hash-generator.git
+git clone https://github.com/pourjavadi/md5-hash-generator.git
 cd md5-hash-generator
 python md5_generator.py
 ```
